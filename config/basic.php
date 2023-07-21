@@ -5,7 +5,7 @@
   'secondary_color' => '#ff8503',
   'currency' => 'USD',
   'currency_symbol' => '$',
-  'theme' => 'lightorange',
+  'theme' => 'minimal',
   'fraction_number' => 2,
   'paginate' => 20,
   'email_verification' => 0,
